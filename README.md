@@ -23,7 +23,7 @@ Developed offline first app mechanism using android architecture(Room, WorkManag
 
 Other 
   - ViewBinding
-  - Cleam Architecture using MVVM
+  - Clean Architecture using MVVM
   - Multi-Module Setup -> Network and Core module are completely independent of each other. App module depends on Network and Core module
   - Kotlin Coroutines
   - Android KTX
