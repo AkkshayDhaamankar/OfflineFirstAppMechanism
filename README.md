@@ -35,6 +35,10 @@ I have used two ways to handle scenario when syncing of a comment fails (can use
 # Architecture Used 
 ![architecture](https://user-images.githubusercontent.com/25646373/170555382-58736790-6e58-46c7-96ca-1de20b1b65d8.png)
 
+# Offline Sync Scenarios
+Note :- Green Color -> Comment is synced, Grey Color -> Comment is yet to be synced, Red Color with strike -> Comment failed to sync
+  - App running, no sync failure, internet available
+
 # App Screenshots
 
 <img width="377" alt="Screenshot 2022-05-27 at 12 18 36 AM" src="https://user-images.githubusercontent.com/25646373/170556358-1cbc1767-f8cc-4aca-9405-af0edd09f377.png">
