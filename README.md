@@ -42,6 +42,15 @@ Note :- Green Color -> Comment is synced, Grey Color -> Comment is yet to be syn
 
 https://user-images.githubusercontent.com/25646373/170558710-0f0a0b9e-ee15-496b-9bc6-b8ba4d9f084c.mov
 
+  - App running, no sync failure, at first network is disconnected and later its connected to sync
+
+
+https://user-images.githubusercontent.com/25646373/170559313-50d2697b-1871-4475-a94b-b6b2efd7a4ae.mov
+
+
+
+
+
 
 
 
