@@ -38,7 +38,8 @@ I have used two ways to handle scenario when syncing of a comment fails (can use
 # Offline Sync Scenarios
 Note :- Green Color -> Comment is synced, Grey Color -> Comment is yet to be synced, Red Color with strike -> Comment failed to sync
   - App running, no sync failure, internet available
-https://user-images.githubusercontent.com/25646373/170558362-0d6226ee-7aff-4dba-96ce-875010fa6400.mov
+  
+![architecture](https://user-images.githubusercontent.com/25646373/170558362-0d6226ee-7aff-4dba-96ce-875010fa6400.mov)
 
 
 
