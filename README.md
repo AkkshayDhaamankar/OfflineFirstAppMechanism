@@ -56,6 +56,14 @@ https://user-images.githubusercontent.com/25646373/170559313-50d2697b-1871-4475-
 
 https://user-images.githubusercontent.com/25646373/170561273-e87db964-62c9-4476-b9b8-dea172642da3.mp4
 
+  
+  - App running, firebase rules changed to simulate sync failure, internet available
+
+
+
+https://user-images.githubusercontent.com/25646373/170561962-944eab1b-2bce-4d58-b850-ee5b7561030e.mov
+
+
 
 
  
