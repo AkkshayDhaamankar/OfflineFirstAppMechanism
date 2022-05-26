@@ -3,7 +3,7 @@ Developed offline first app mechanism using android architecture(Room, WorkManag
 
 # Libraries Used
 - Database
-  - Room DB for local caching.
+  - Room DB for local caching
   - Firestore for cloud DB storage
 
 - Foreground and Background Sync Handling
@@ -18,7 +18,8 @@ Developed offline first app mechanism using android architecture(Room, WorkManag
 
 - Communication between app layers
   - Kotlin Coroutines for interacting between ViewModel, UseCases and Room DB
-  - Broadcast receiver for receiving updates when work manager finishes syncing a job.
+  - Broadcast receiver for receiving updates when work manager finishes syncing a job
+  - WorkManager with live data in viewmodel to show updates on ui
 
 Other 
   - ViewBinding
