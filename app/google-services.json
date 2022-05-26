@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "544490579260",
+    "project_id": "offlinecachingmechanism",
+    "storage_bucket": "offlinecachingmechanism.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544490579260:android:645562f75706295943aa39",
+        "android_client_info": {
+          "package_name": "com.tsbempire.network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544490579260-2v5c0p5i27pbvl606g01te4m4itu4vbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTpuIAhYKx9RqZn9BmyLCEiaJzpjbAwJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544490579260-2v5c0p5i27pbvl606g01te4m4itu4vbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544490579260:android:31d3dd3520053da243aa39",
+        "android_client_info": {
+          "package_name": "com.tsbempire.offlinecachingmechanism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544490579260-2v5c0p5i27pbvl606g01te4m4itu4vbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTpuIAhYKx9RqZn9BmyLCEiaJzpjbAwJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544490579260-2v5c0p5i27pbvl606g01te4m4itu4vbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
