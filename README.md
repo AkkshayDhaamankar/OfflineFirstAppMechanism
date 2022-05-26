@@ -35,4 +35,10 @@ I have used two ways to handle scenario when syncing of a comment fails (can use
 # Architecture Used 
 ![architecture](https://user-images.githubusercontent.com/25646373/170555382-58736790-6e58-46c7-96ca-1de20b1b65d8.png)
 
+# App Screenshots
+
+<img width="377" alt="Screenshot 2022-05-27 at 12 18 36 AM" src="https://user-images.githubusercontent.com/25646373/170556358-1cbc1767-f8cc-4aca-9405-af0edd09f377.png">
+<img width="377" alt="Screenshot 2022-05-27 at 12 18 49 AM" src="https://user-images.githubusercontent.com/25646373/170556397-647f5c2f-060d-4965-9e3a-330b6f11a3ef.png">
+<img width="377" alt="Screenshot 2022-05-27 at 12 19 00 AM" src="https://user-images.githubusercontent.com/25646373/170556418-7512e115-5e25-4a6c-a63c-e98eba550a6a.png">
+
 
