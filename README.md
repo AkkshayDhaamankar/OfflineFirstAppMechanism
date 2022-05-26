@@ -47,6 +47,19 @@ https://user-images.githubusercontent.com/25646373/170558710-0f0a0b9e-ee15-496b-
 
 https://user-images.githubusercontent.com/25646373/170559313-50d2697b-1871-4475-a94b-b6b2efd7a4ae.mov
 
+  - App not running, no sync failure, network connected later to sync jobs when app is not running/killed.
+    - Step 1 :- At first network will be disconnected and will add jobs to sync 
+    - Step 2 :- Kill (not even in background/recently opened apps) app and then connect to network to sync jobs.
+    - Step 3 :- Disconnect network again and open app to check if jobs were synced when app was not running.
+
+
+
+https://user-images.githubusercontent.com/25646373/170561273-e87db964-62c9-4476-b9b8-dea172642da3.mp4
+
+
+
+ 
+
 
 
 
